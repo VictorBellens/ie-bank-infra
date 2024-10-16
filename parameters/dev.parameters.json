@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "wessam-dbsrv-dev"
+            "value": "victor-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "wessam-db-dev"
+            "value": "victor-db-dev"
         },
         "appServicePlanName": {
-            "value": "wessam-asp-dev"
+            "value": "victor-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "wessam-be-dev"
+            "value": "victor-be-dev"
         },
         "appServiceAppName": {
-            "value": "wessam-fe-dev"
+            "value": "victor-fe-dev"
         },
         "location": {
             "value": "North Europe"
